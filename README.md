@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devinmarselio&label=Profile%20views&color=0e75b6&style=flat" alt="devinmarselio" /> </p>
 <h3 align="left">About me:</h3>
-<p>- 🌱 I’m currently learning **JavaScript, React, HTML, CSS, MySQL**</p>
-<p>- 💬 Ask me about **Java & Python**</p>
-<p>- 📫 How to reach me **devinmarselio@mhs.mdp.ac.id**</p>
-<p>- 😄 Pronouns **Just call me by my name**</p>
-<p>- ⚡ Fun fact **You are currently reading this text**</p>
+<p>- 🌱 I’m currently learning <b>JavaScript, React, HTML, CSS, MySQL</b></p>
+<p>- 💬 Ask me about <b>Java & Python</b></p>
+<p>- 📫 How to reach me <b>devinmarselio@mhs.mdp.ac.id</b></p>
+<p>- 😄 Pronouns <b>Just call me by my name</b></p>
+<p>- ⚡ Fun fact <b>You are currently reading this text</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
